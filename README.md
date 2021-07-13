@@ -1,4 +1,4 @@
-# Cloud settings Gist VS code with extension Settings Sync
+# VS code cloud settings Gist with extension Settings Sync
 
 ## Cloud settings
 Source: https://gist.github.com/leducmanh1011/d10a4072e16355665b06c8eb08b8e373
